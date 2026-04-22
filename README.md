@@ -1,8 +1,4 @@
-<img width="2685" height="1485" alt="image (1)" src="https://github.com/user-attachments/assets/324c861d-f98d-4464-acf4-d5b1f4d0d6e2" />
-<img width="3184" height="1904" alt="image" src="https://github.com/user-attachments/assets/7242d7ea-df39-4dc7-b4a9-e805416282ba" />
-<img width="1389" height="790" alt="image (2)" src="https://github.com/user-attachments/assets/fb589bf5-f574-4b26-8adb-27e4325a8388" />
-<img width="1190" height="790" alt="similarity_score_across_all_ocrmodels" src="https://github.com/user-attachments/assets/030dc7b4-3a63-42f7-934c-151c5544e83f" />
-<img width="1782" height="1261" alt="wer_and_cer_across_all_ocrmodels" src="https://github.com/user-attachments/assets/c32bfbfc-b369-4003-b548-1adac11e4710" />
+
 # OCR Benchmark Framework for Document-to-Markdown Conversion
 
 > Quantifying text extraction quality and structure preservation across leading OCR solutions.
@@ -417,9 +413,9 @@ Per-model JSON metrics are also embedded in `data/model_outputs/<model>/` alongs
 
 Full benchmark across all 27 evaluated models. Lower CER/WER is better; higher Similarity is better.
 
-<img width="1782" height="1261" alt="wer_and_cer_across_all_ocrmodels" src="https://github.com/user-attachments/assets/3baca0cd-ebc6-4467-b3c2-074ead39e8b9" />
-<img width="1190" height="790" alt="similarity_score_across_all_ocrmodels" src="https://github.com/user-attachments/assets/4485d717-e382-428e-8851-a134489b9573" />
 
+<img width="1190" height="790" alt="similarity_score_across_all_ocrmodels" src="https://github.com/user-attachments/assets/030dc7b4-3a63-42f7-934c-151c5544e83f" />
+<img width="1782" height="1261" alt="wer_and_cer_across_all_ocrmodels" src="https://github.com/user-attachments/assets/c32bfbfc-b369-4003-b548-1adac11e4710" />
 
 
 | Model | CER ↓ | WER ↓ | Similarity ↑ |
@@ -461,10 +457,9 @@ The hybrid fusion approach aims to produce outputs that closely resemble the sou
 leveraging inter-model reinforcement to mitigate individual weaknesses.
 
 
-<img width="800" height="442" alt="79103041-aa2f-46a9-a621-4562d174a6b0" src="https://github.com/user-attachments/assets/aeed1353-c6be-4945-ad03-781c907a9536" />
-<img width="800" height="478" alt="0d7680f0-5642-48d7-8028-2002c53c4d72" src="https://github.com/user-attachments/assets/c953843b-2251-40dc-a711-8d440e0b1cf0" />
-
-<img width="800" height="455" alt="3b6bc661-5140-4172-b112-e2fedc314c81" src="https://github.com/user-attachments/assets/a4499356-2842-4eef-aa17-fd7a5c2c521c" />
+<img width="2685" height="1485" alt="image (1)" src="https://github.com/user-attachments/assets/324c861d-f98d-4464-acf4-d5b1f4d0d6e2" />
+<img width="3184" height="1904" alt="image" src="https://github.com/user-attachments/assets/7242d7ea-df39-4dc7-b4a9-e805416282ba" />
+<img width="1389" height="790" alt="image (2)" src="https://github.com/user-attachments/assets/fb589bf5-f574-4b26-8adb-27e4325a8388" />
 
 
 ## Model Evaluation Results
