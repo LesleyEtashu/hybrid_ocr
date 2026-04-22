@@ -1,3 +1,8 @@
+<img width="2685" height="1485" alt="image (1)" src="https://github.com/user-attachments/assets/324c861d-f98d-4464-acf4-d5b1f4d0d6e2" />
+<img width="3184" height="1904" alt="image" src="https://github.com/user-attachments/assets/7242d7ea-df39-4dc7-b4a9-e805416282ba" />
+<img width="1389" height="790" alt="image (2)" src="https://github.com/user-attachments/assets/fb589bf5-f574-4b26-8adb-27e4325a8388" />
+<img width="1190" height="790" alt="similarity_score_across_all_ocrmodels" src="https://github.com/user-attachments/assets/030dc7b4-3a63-42f7-934c-151c5544e83f" />
+<img width="1782" height="1261" alt="wer_and_cer_across_all_ocrmodels" src="https://github.com/user-attachments/assets/c32bfbfc-b369-4003-b548-1adac11e4710" />
 # OCR Benchmark Framework for Document-to-Markdown Conversion
 
 > Quantifying text extraction quality and structure preservation across leading OCR solutions.
